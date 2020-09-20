@@ -1,0 +1,38 @@
+html {
+  font-family: Roboto, sans-serif;
+}
+
+h1 {
+  color: blue;
+  margin-bottom: 0.25em;
+}
+
+h2 {
+  color: cornflowerblue;
+  font-size: 1em;
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+.summary {
+  margin-bottom: 2em;
+}
+
+.expirience {
+  display: flex;
+  margin-bottom: 2em;
+}
+
+.expirience_name {
+  font-weight: bold;
+}
+
+.expirience_date {
+  min-width: 185px;
+  margin-bottom: 1em;
+}
+
+#page-wrap {
+  width: 800px;
+  margin: 40px auto 60px;
+}
